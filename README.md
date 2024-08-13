@@ -1,4 +1,4 @@
-> 此fork唯一的功能就是将!!qq与!!mc发送消息改为直接转发所有消息而不需要指令
+> - 此fork唯一的功能就是将!!qq与!!mc发送消息改为直接转发所有消息而不需要指令      
 > This fork's sole function is to forward all messages without the need for commands like !!qq or !!mc.
 
 # ChatBridge
